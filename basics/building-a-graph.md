@@ -45,7 +45,7 @@
 
 ---
 
-_[1]：最后一句话仅对一些旧版本有效。在2018.3以上版本的Unity中，场景编辑和**预制体 _(prefab)_** 编辑已经分离。添加或移除**组件 _(component)_**不会断开**预制体 _(prefab)_** 和实体的关系，但在场景中修改**预制体 _(prefab)_** 的实体时有一定的限制。参考[在**预制体 _(prefab)_** 模式中编辑(暂仅英文)](https://docs.unity3d.com/Manual/EditingInPrefabMode.html)。_
+_[1]：最后一句话仅对一些旧版本有效。在2018.3以上版本的Unity中，场景编辑和**预制体 _(prefab)_** 编辑已经分离。添加或移除**组件 _(component)_** 不会断开**预制体 _(prefab)_** 和实体的关系，但在场景中修改**预制体 _(prefab)_** 的实体时有一定的限制。参考[在**预制体 _(prefab)_** 模式中编辑(暂仅英文)](https://docs.unity3d.com/Manual/EditingInPrefabMode.html)。_
 
 ---
 
